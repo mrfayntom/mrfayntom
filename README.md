@@ -17,9 +17,10 @@ I am a self-taught developer experimenting with **Machine Learning (ML)** and **
 
 ## Skills & Focus
 
-- **Machine Learning (ML)**
-- **Reinforcement Learning (RL)**
-- **Python** (for development and research)
+Currently focused on:
+- Machine Learning (ML)
+- Reinforcement Learning (RL)
+- Python-based development & research projects
 
 I am constantly learning and expanding my skillset. As my journey progresses, I will be adding more expertise and tools to my repertoire.
 
@@ -42,7 +43,14 @@ You can explore my repositories for current and future projects.
 
 ## Personal Update
 
-Currently, my focus is on securing a **scholarship** to further my studies in ML and research. This opportunity would allow me to explore the field in depth, refine my skills, and contribute to the areas of research that I am passionate about.
+Right now I want to get a scholarship so I can study ML and research — which make me satisfied and happy.
+
+---
+
+## Gratitude
+
+I want to express my gratitude to the Python learning resource that has been a great help to me.  
+I learned Python from this [**YouTube video**](https://youtu.be/UrsmFxEIp5k?si=pFbSM9L5gtr0jGL7), and I’m truly thankful for the guidance it provided.
 
 ---
 
