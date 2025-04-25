@@ -54,3 +54,11 @@ I learned Python from this [**YouTube video**](https://youtu.be/UrsmFxEIp5k?si=p
 
 ---
 
+## Current PC Specs
+
+- **RAM**: 4 GB
+- **CPU**: Intel N5000
+
+These are my current specs, and despite the limitations, I continue to work on and explore various projects with a focus on optimizing code for performance.
+
+---
