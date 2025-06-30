@@ -37,7 +37,6 @@ You can explore my repositories for current and future projects.
 ## Connect With Me
 
 - **Email**: [mrfayntom@gmail.com](mailto:mrfayntom@gmail.com)
-- **Instagram**: [@mrfayntom](https://www.instagram.com/mrfayntom/)
 - **Instagram**: [@parysight](https://www.instagram.com/parysight/) here I share my arts and normal hobbies and skill I have
 
 ---
